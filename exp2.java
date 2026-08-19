@@ -1,4 +1,4 @@
-Public static void aluno(
+Public static void exp2 (
 String nome,
 int idade,
 double nota) {
