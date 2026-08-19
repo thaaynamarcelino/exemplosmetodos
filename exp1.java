@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class exp1 {
 
      public static void mostrarMensagem() {
        System.out.println("Olá, aluno!");
