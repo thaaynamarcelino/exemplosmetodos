@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class exp3 {
 
      public static void mostrarMensagem() {
        System.out.println("Bem-vindo ao sistema!!");
