@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main{
+public class exp4{
 
 public static void  saudacao (
 String nome) {
